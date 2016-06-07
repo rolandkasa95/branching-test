@@ -1,7 +1,11 @@
-#include <stdio.h
-
 <?php
 
-function m($a,$b){
+include p.php
+
+function fm($a,$b){
 	return $a-$b;
 }
+
+?>
+
+
