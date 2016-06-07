@@ -1,3 +1,9 @@
 smth
 
 new line11
+
+<?php
+
+function ceva($number) {
+	return $number + 1;
+}
