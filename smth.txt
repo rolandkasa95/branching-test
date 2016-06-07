@@ -3,10 +3,8 @@ smth
 new line22
 new line11
 
-<?php 
+<?php
 
 function ceva($number) {
-	return $number + 2;
+	return $number + 1;
 }
-
-?>
