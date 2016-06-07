@@ -1,3 +1,7 @@
-function fx($a,$b){
+<?php
+
+Function fx($a,$b){
 	return $a*$b;
 }
+
+?>
