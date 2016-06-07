@@ -2,3 +2,11 @@ smth
 
 new line22
 new line11
+
+<?php 
+
+function ceva($number) {
+	return $number + 2;
+}
+
+?>
