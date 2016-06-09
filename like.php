@@ -1,3 +1,9 @@
+<head>
+<title>
+  This is the new title!
+</title>
+</head>
+
 <?php
 
 error_reporting(-1);
