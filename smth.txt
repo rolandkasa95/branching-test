@@ -1,9 +1,5 @@
-smth
+ismth
 
-new line11
+new line
 
-<?php
-
-function ceva($number) {
-	return $number + 1;
-}
+yet another one
